@@ -1,4 +1,4 @@
-# The Standard of Code Review
+# The Standard of Code Review 代码评审的准则
 
 
 
@@ -6,6 +6,8 @@ The primary purpose of code review is to make sure that the overall
 code health of Google's code
 base is improving over time. All of the tools and processes of code review are
 designed to this end.
+
+代码评审的根本目的确保谷歌的code base的整体的代码质量越来越高。所有的工具和代码评审过程都是为了这个目的。
 
 In order to accomplish this, a series of trade-offs have to be balanced.
 
